@@ -1,4 +1,4 @@
-## Far out in the uncharted backwaters of the unfashionable end of the Western Spiral arm of the galaxy lies a small unregarded yellow sun.
+## Welcome
 
 Technical Product Owner and AI-native developer. I've spent 15+ years taking web products from idea to production, first as a developer, then leading products and teams. I'm based in Bangkok and work remotely (Irish, EU passport).
 
@@ -13,10 +13,10 @@ These days I build with Claude as a core part of my workflow: agents, tool integ
 
 ### Build
 
-- WordPress at depth: custom plugins, WooCommerce, large-site maintenance and performance
+- CMS Expert: custom plugins, e-Commerce, large-site maintenance and performance
 - React, Next.js and Node.js
-- Payments: Stripe and Omise
-- AWS (Route 53, cost work, hosting), Postgres, LINE integrations
+- Payments: Stripe and Omise etc.
+- AWS (Route 53, cost work, hosting), Postgres
 
 ### AI
 
@@ -27,7 +27,7 @@ These days I build with Claude as a core part of my workflow: agents, tool integ
 ### Currently building
 
 - A Telegram-based personal assistant agent
-- Conference ticketing and reporting tools for a medical association (WordPress)
+- Conference ticketing and reporting tools for a medical association
 - Lead generation and site work for an investment advisory client
 
 ### Certifications
