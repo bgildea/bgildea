@@ -37,5 +37,5 @@ AWS Certified Cloud Practitioner · CompTIA Security+
 ### Get in touch
 
 - Website: [brickisred.com](https://brickisred.com)
-- Email: barry.gildea@gmail.com
+- Email: [design@brickisred.com](mailto:design@brickisred.com)
 - Open to remote Technical Product Owner, AI product and AI developer roles
