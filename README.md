@@ -1,4 +1,4 @@
-## Hi and welcome
+## Far out in the uncharted backwaters of the unfashionable end of the Western Spiral arm of the galaxy lies a small unregarded yellow sun.
 
 Technical Product Owner and AI-native developer. I've spent 15+ years taking web products from idea to production, first as a developer, then leading products and teams. I'm based in Bangkok and work remotely (Irish, EU passport).
 
