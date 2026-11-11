@@ -1,4 +1,4 @@
-## Welcome
+##
 
 Technical Product Owner and AI-native developer. I've spent 15+ years taking web products from idea to production, first as a developer, then leading products and teams. I'm based in Bangkok and work remotely (Irish, EU passport).
 
