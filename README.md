@@ -16,7 +16,7 @@ These days I build with Claude as a core part of my workflow: agents, tool integ
 - CMS Expert: custom plugins, e-Commerce, large-site maintenance and performance
 - React, Next.js and Node.js
 - Payments: Stripe and Omise etc.
-- Cloud Services  - AWS, Postgres
+- Cloud Services
 
 ### AI
 
