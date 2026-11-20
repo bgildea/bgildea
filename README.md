@@ -27,10 +27,11 @@ These days I build with Claude as a core part of my workflow: agents, tool integ
 
 ### Currently building (November 2026)
 
-- [telegram-claude-agent](https://github.com/bgildea/telegram-claude-agent): a Telegram assistant built on Claude, now with per-chat daily token budgets so costs stay predictable
-- [wordpress-mcp-server](https://github.com/bgildea/wordpress-mcp-server): an MCP server that lets AI agents work with WordPress sites; comment tools added this month, with private fields never exposed
-- Conference ticketing and revenue reporting tools for a medical association (WordPress, Gravity Forms, Stripe)
-- Lead generation and site work for an investment advisory client
+- [react-chatgpt-clone](https://github.com/bgildea/react-chatgpt-clone): a React and Express chat app, now with multi-turn memory, server-side guardrails, tests and CI; streaming replies are next
+- [telegram-claude-agent](https://github.com/bgildea/telegram-claude-agent): a Telegram assistant built on Claude, with per-chat daily token budgets so costs stay predictable
+- [wordpress-mcp-server](https://github.com/bgildea/wordpress-mcp-server): an MCP server that lets AI agents work with WordPress sites, with private comment fields never exposed
+- A personal planning app with goal checklists, weekly reviews and schedule clash warnings
+- Client work: conference ticketing and revenue reporting tools (WordPress, Gravity Forms, Stripe)
 
 ### Certifications
 
