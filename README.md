@@ -17,7 +17,7 @@ These days I build with Claude as a core part of my workflow: agents, tool integ
 - React, Next.js and Node.js
 - Payments: Stripe and Omise etc.
 - Cloud Services
-- Native Apps
+- LINE integrations: booking confirmations and reminders, plus an evaluation of LINE mini apps (LIFF), see the [FloSpace case](https://github.com/bgildea/product-casebook/blob/main/cases/01-flospace.md)
 
 ### AI
 
@@ -25,10 +25,11 @@ These days I build with Claude as a core part of my workflow: agents, tool integ
 - MCP servers and tool integrations
 - AI-native delivery: specs, prompts, review gates and tests as one workflow
 
-### Currently building (November 2026)
+### Currently building (updated 23 November 2026)
 
 - [telegram-claude-agent](https://github.com/bgildea/telegram-claude-agent): a Telegram assistant built on Claude, now with per-chat daily token budgets so costs stay predictable
 - [wordpress-mcp-server](https://github.com/bgildea/wordpress-mcp-server): an MCP server that lets AI agents work with WordPress sites; comment tools added this month, with private fields never exposed
+- [react-chatgpt-clone](https://github.com/bgildea/react-chatgpt-clone): my 2023 chat UI, brought up to date with multi-turn memory, input validation, tests and CI
 - Conference ticketing and revenue reporting tools for a medical association (WordPress, Gravity Forms, Stripe)
 - Lead generation and site work for an investment advisory client
 
