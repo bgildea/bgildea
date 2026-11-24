@@ -1,27 +1,25 @@
-##
-
 Technical Product Owner and AI-native developer. I've spent 15+ years taking web products from idea to production, first as a developer, then leading products and teams. I'm based in Bangkok and work remotely (Irish, EU passport).
 
 These days I build with Claude as a core part of my workflow: agents, tool integrations and the product thinking around them.
 
 ### Product
 
-- Technical Product Owner at American Express Global Business Travel, on AI chat and messaging products
+- Technical Product Owner at American Express Global Business Travel (2020 to 2023), on AI chat and messaging products
 - Founded and ran DublinStartupJobs.com, a jobs marketplace for Irish start-ups
 - CTO and lead engineer at Sonorplex; technology roles with Concern Worldwide and Freeland Foundation
 - I write specs engineers can build from, keep a backlog honest, and measure whether the thing worked
 
 ### Build
 
-- CMS Expert: custom plugins, e-Commerce, large-site maintenance and performance
+- WordPress: custom plugins, e-commerce, large-site maintenance and performance
 - React, Next.js and Node.js
-- Payments: Stripe and Omise etc.
-- Cloud Services
+- Payments: Stripe and Omise, including PromptPay
+- AWS (Certified Cloud Practitioner)
 - LINE integrations: booking confirmations and reminders, plus an evaluation of LINE mini apps (LIFF), see the [FloSpace case](https://github.com/bgildea/product-casebook/blob/main/cases/01-flospace.md)
 
 ### AI
 
-- Agents built on AI
+- Claude agents with tool use, budgets and guardrails (see [telegram-claude-agent](https://github.com/bgildea/telegram-claude-agent))
 - MCP servers and tool integrations
 - AI-native delivery: specs, prompts, review gates and tests as one workflow
 
@@ -29,7 +27,7 @@ These days I build with Claude as a core part of my workflow: agents, tool integ
 
 - [telegram-claude-agent](https://github.com/bgildea/telegram-claude-agent): a Telegram assistant built on Claude, now with per-chat daily token budgets so costs stay predictable
 - [wordpress-mcp-server](https://github.com/bgildea/wordpress-mcp-server): an MCP server that lets AI agents work with WordPress sites; comment tools added this month, with private fields never exposed
-- [react-chatgpt-clone](https://github.com/bgildea/react-chatgpt-clone): my 2023 chat UI, brought up to date with multi-turn memory, input validation, tests and CI
+- [react-chat-guardrails](https://github.com/bgildea/react-chat-guardrails): my 2023 chat UI, brought up to date with multi-turn memory, input validation, tests and CI
 - Conference ticketing and revenue reporting tools for a medical association (WordPress, Gravity Forms, Stripe)
 - Lead generation and site work for an investment advisory client
 
